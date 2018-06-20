@@ -1,0 +1,2 @@
+- Define a constant: `const int weightGoal = 100;`
+- std::getline(std::cin, variableName)
